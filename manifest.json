@@ -2568,7 +2568,14 @@
       "mod_version": "3",
       "remote": "https://github.com/lite-xl/lite-xl-ide.git:3bb229a5b7ed7028c40bba831b0dd77b06c3e262",
       "version": "0.1"
-    }
+    },
+    {
+      "description": "Use the tab key to quickly get out of quotes, brackets, and other joined characters.",
+      "id": "tabout",
+      "mod_version": "3",
+      "path": "plugins/tabout.lua",
+      "version": "0.1.0"
+    },
   ],
   "remotes": [
     "https://github.com/lite-xl/lite-xl-lsp-servers:latest",
