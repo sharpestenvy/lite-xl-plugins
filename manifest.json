@@ -2575,7 +2575,7 @@
       "mod_version": "3",
       "path": "plugins/tabout.lua",
       "version": "0.1.0"
-    },
+    }
   ],
   "remotes": [
     "https://github.com/lite-xl/lite-xl-lsp-servers:latest",
