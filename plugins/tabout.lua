@@ -8,7 +8,7 @@ local core = require "core"
 config.plugins.tabout = config.plugins.tabout or {}
 config.plugins.tabout.closing_chars =
   config.plugins.tabout.closing_chars or {
-    ")", "]", "}", "'", '"', "`", ">",
+    "]", "}", ")", "'", '"', ":", "=", ">", "<", ".", "`", ";",
   }
 
 local function make_set(list)
